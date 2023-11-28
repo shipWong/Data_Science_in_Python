@@ -1,4 +1,4 @@
-> To see interactive Plotly charts, please click this [nbviewer link](https://nbviewer.org/github/shipWong/eBay-Car-Sales/blob/main/GP-004_Exploring_eBay_Car_Sales_Data.ipynb#Loading-and-exploring-the-data).
+> To see interactive Plotly charts, please click this [nbviewer link](https://nbviewer.org/github/shipWong/Data_Science_in_Python/blob/6ad954ea32727469eceb9788d43a8b3e835f05c6/Exploring_eBay_Car_Sales_Data/GP-004_Exploring_eBay_Car_Sales_Data.ipynb).
 
 # Finding Your Dream Car — Analyzing the German eBay Car Sales
 
